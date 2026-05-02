@@ -1,10 +1,6 @@
 #include <iostream>
-using namespace std;
 
 int main() {
-    // add code
-    cout << "\nHello World!\n";
-    // add code
-
+    std :: cout << "\nHello World! My name is Nathan Chin.\n" << std :: endl;
     return 0;
 }
